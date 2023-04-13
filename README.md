@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @azure-architect
-- 👀 I’m interested in ... React
-- 🌱 I’m currently learning ... Nextjs, Strapi, Wordpress REST, Prisma, Type Script
-- 💞️ I’m looking to collaborate on ... SASS around affiliate Marketing
-- 📫 How to reach me ...VSCoder.brad@gmail.com
+- 👀 I’m interested in ... Security and Network Operations.
+- 🌱 I’m currently learning ... Python, Studying for the CCNA
+- 💞️ I’m looking to collaborate on ... Studies
+- 📫 How to reach me ...vscoder.brad@gmail.com
 
 <!---
 azure-architect/azure-architect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
